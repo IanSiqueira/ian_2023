@@ -2,10 +2,21 @@
 
 #Meu repositório remoto alterado 2023 
 
+<<<<<<< HEAD
 #TESTE * TESTE
 REBASEteste
 
 
+=======
+
+
+
+
+TESTE DE REBASE 
+
+IAN
+
+>>>>>>> f2ef2779a93bcfef9f722bf1b5f9d35fd2e1f8e9
 >>git init: Inicializa um repositório Git em um diretório local, criando um novo repositório vazio ou reutilizando um existente.
 
 >>git clone: Cria uma cópia de um repositório Git existente, permitindo que você trabalhe com o código em seu ambiente local.
