@@ -1,6 +1,6 @@
 # ian_2023
 
-#Meu repositório remoto
+#Meu repositório remoto alterado
 
 >>git init: Inicializa um repositório Git em um diretório local, criando um novo repositório vazio ou reutilizando um existente.
 
