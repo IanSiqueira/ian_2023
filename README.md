@@ -34,4 +34,4 @@
 
 >>git reset: Desfaz alterações e move o HEAD (ponteiro do branch) para um commit específico.:
 
-###
+### teste
